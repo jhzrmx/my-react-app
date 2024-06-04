@@ -2,7 +2,7 @@ import Homepage from "./Homepage";
 
 function App() {
   return (
-    <Homepage />
+    <Homepage currentName="JHZRMX" />
   );
 }
 
